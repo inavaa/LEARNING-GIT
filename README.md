@@ -1,2 +1,2 @@
 # LEARNING-GIT
-A repo where I learn git commands.
+A repository where I learn git commands by doing
